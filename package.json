@@ -1,0 +1,33 @@
+{
+  "name": "easybot",
+  "version": "0.0.1",
+  "description": "API management for discordie. Allowing for wasy to make discord bots.",
+  "main": "easybot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TristonStuart/easybot.git"
+  },
+  "keywords": [
+    "discordie",
+    "bot",
+    "api",
+    "easybot",
+    "easy",
+    "bot",
+    "discord",
+    "dis",
+    "cord"
+  ],
+  "author": "Triston Stuart",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TristonStuart/easybot/issues"
+  },
+  "homepage": "https://github.com/TristonStuart/easybot#readme",
+  "dependencies": {
+    "discordie": "^0.11.0"
+  }
+}
